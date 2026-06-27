@@ -12,7 +12,7 @@ wealth**.
 
 <p align="center">
   <a href="https://github.com/ducp-protocol/spec/blob/main/whitepaper/DUCP_White_Paper_v0.1.0.pdf"><img src="https://img.shields.io/badge/Read%20the%20White%20Paper-v0.1.0-1F4E79?style=for-the-badge" alt="Read the White Paper (v0.1.0)"></a>
-  <a href="https://github.com/ducp-protocol/spec"><img src="https://img.shields.io/badge/Specification-Open-2E75B6?style=for-the-badge" alt="Specification"></a>
+  <a href="https://github.com/ducp-protocol/spec/tree/main/spec"><img src="https://img.shields.io/badge/Specification-Draft-2E75B6?style=for-the-badge" alt="Specification (draft)"></a>
   <a href="https://github.com/ducp-protocol/ducp-node-rs"><img src="https://img.shields.io/badge/Reference%20Node-Rust-B7410E?style=for-the-badge" alt="Reference Node (Rust)"></a>
 </p>
 
