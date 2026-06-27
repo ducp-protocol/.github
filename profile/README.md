@@ -25,7 +25,7 @@ wealth**.
 | Repo | What |
 |---|---|
 | [**spec**](https://github.com/ducp-protocol/spec) | White paper, specification, governance, and proposals |
-| [**node**](https://github.com/ducp-protocol/node) | Reference implementation, in Rust — *coming soon* |
+| [**ducp-node-rs**](https://github.com/ducp-protocol/ducp-node-rs) | Reference implementation, in Rust — *scaffold* |
 
 ## Get involved
 
