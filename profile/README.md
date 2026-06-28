@@ -1,6 +1,11 @@
-# DUCP — Decentralized Universal Compute Protocol
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ducp-protocol/.github/main/profile/ducp-logo-horizontal-dark.png">
+    <img alt="DUCP — Decentralized Universal Compute Protocol" src="https://raw.githubusercontent.com/ducp-protocol/.github/main/profile/ducp-logo-horizontal.png" width="560">
+  </picture>
+</p>
 
-### *Democratizing Sustainable Compute to Power Technological Evolution*
+<p align="center"><em>Democratizing Sustainable Compute to Power Technological Evolution</em></p>
 
 An open, trustless protocol that mobilizes the world's compute into one market and a
 democratized, sustainable abundance — where **verified work is the currency**,
