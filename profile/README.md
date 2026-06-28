@@ -12,11 +12,11 @@ democratized, sustainable abundance — where **verified work is the currency**,
 efficiency is rewarded by the market, and governance is **earned reputation, not
 wealth**.
 
-> **Status:** first public release — **v0.1.0** (Request for Comments). A design
+> **Status:** current release — **v0.2.0** (Request for Comments). A design
 > seeking scrutiny and collaborators, not yet a shipped system.
 
 <p align="center">
-  <a href="https://github.com/ducp-protocol/spec/blob/main/whitepaper/DUCP_White_Paper_v0.1.0.pdf"><img src="https://img.shields.io/badge/Read%20the%20White%20Paper-v0.1.0-1F4E79?style=for-the-badge" alt="Read the White Paper (v0.1.0)"></a>
+  <a href="https://github.com/ducp-protocol/spec/blob/main/whitepaper/DUCP_White_Paper_v0.2.0.pdf"><img src="https://img.shields.io/badge/Read%20the%20White%20Paper-v0.2.0-1F4E79?style=for-the-badge" alt="Read the White Paper (v0.2.0)"></a>
   <a href="https://github.com/ducp-protocol/spec/tree/main/spec"><img src="https://img.shields.io/badge/Specification-Draft-2E75B6?style=for-the-badge" alt="Specification (draft)"></a>
   <a href="https://github.com/ducp-protocol/ducp-node-rs"><img src="https://img.shields.io/badge/Reference%20Node-Rust-B7410E?style=for-the-badge" alt="Reference Node (Rust)"></a>
 </p>
@@ -40,7 +40,7 @@ wealth**.
 
 ## Get involved
 
-Start with the [white paper](https://github.com/ducp-protocol/spec/blob/main/whitepaper/DUCP_White_Paper_v0.1.0.pdf),
+Start with the [white paper](https://github.com/ducp-protocol/spec/blob/main/whitepaper/DUCP_White_Paper_v0.2.0.pdf),
 then read [CONTRIBUTING](https://github.com/ducp-protocol/spec/blob/main/CONTRIBUTING.md)
 and [GOVERNANCE](https://github.com/ducp-protocol/spec/blob/main/GOVERNANCE.md).
 Critiques and proposals are welcome — especially on the open problems: trustless
