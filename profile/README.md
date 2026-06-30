@@ -16,9 +16,9 @@ wealth**.
 > Requests for Comments seeking scrutiny and collaborators, not yet shipped systems.
 
 <p align="center">
-  <a href="https://github.com/ducp-protocol/spec/blob/main/whitepaper/DUCP_White_Paper_v0.2.0.pdf"><img src="https://img.shields.io/badge/Read%20the%20White%20Paper-v0.2.0-1F4E79?style=for-the-badge" alt="Read the White Paper (v0.2.0)"></a>
-  <a href="https://github.com/ducp-protocol/spec/blob/main/quant/Quant_Standard_v0.1.0.pdf"><img src="https://img.shields.io/badge/Companion%3A%20The%20Quant%20(%E2%84%9A)-RFC%20v0.1.0-2E8B57?style=for-the-badge" alt="The Quant (ℚ) — RFC v0.1.0"></a>
-  <a href="https://github.com/ducp-protocol/spec/tree/main/spec"><img src="https://img.shields.io/badge/Specification-Draft-2E75B6?style=for-the-badge" alt="Specification (draft)"></a>
+  <a href="https://github.com/ducp-protocol/ducp-spec/blob/main/whitepaper/DUCP_White_Paper_v0.2.0.pdf"><img src="https://img.shields.io/badge/Read%20the%20White%20Paper-v0.2.0-1F4E79?style=for-the-badge" alt="Read the White Paper (v0.2.0)"></a>
+  <a href="https://github.com/ducp-protocol/ducp-spec/blob/main/quant/Quant_Standard_v0.1.0.pdf"><img src="https://img.shields.io/badge/Companion%3A%20The%20Quant%20(%E2%84%9A)-RFC%20v0.1.0-2E8B57?style=for-the-badge" alt="The Quant (ℚ) — RFC v0.1.0"></a>
+  <a href="https://github.com/ducp-protocol/ducp-spec/tree/main/spec"><img src="https://img.shields.io/badge/Specification-Draft-2E75B6?style=for-the-badge" alt="Specification (draft)"></a>
   <a href="https://github.com/ducp-protocol/ducp-node-rs"><img src="https://img.shields.io/badge/Reference%20Node-Rust-B7410E?style=for-the-badge" alt="Reference Node (Rust)"></a>
 </p>
 
@@ -29,7 +29,7 @@ wealth**.
   efficiency is rewarded in the market, never baked into the unit.
 - **ℚ (Quant)** — the companion *efficiency* unit: useful information resolved per
   joule, benchmarked against the Landauer limit; the quality axis to 𝕌's quantity.
-  Published as an open [RFC v0.1.0](https://github.com/ducp-protocol/spec/tree/main/quant)
+  Published as an open [RFC v0.1.0](https://github.com/ducp-protocol/ducp-spec/tree/main/quant)
   (usable beyond DUCP; DUCP is the first reference adopter).
 - **The DVM** — a standard, deterministic virtual machine every task runs inside.
 - **Layered verification** — run once, check cheaply: TEE attestation, ZK proofs,
@@ -40,19 +40,19 @@ wealth**.
 
 | Repo | What |
 |---|---|
-| [**spec**](https://github.com/ducp-protocol/spec) | White paper, companion Quant (ℚ) standard, specification, and proposals |
+| [**ducp-spec**](https://github.com/ducp-protocol/ducp-spec) | White paper, companion Quant (ℚ) standard, specification, and proposals |
 | [**ducp-node-rs**](https://github.com/ducp-protocol/ducp-node-rs) | Reference implementation, in Rust — *scaffold* |
 
 ## Get involved
 
-Start with the [white paper](https://github.com/ducp-protocol/spec/blob/main/whitepaper/DUCP_White_Paper_v0.2.0.pdf)
-and the [Quant (ℚ) standard RFC](https://github.com/ducp-protocol/spec/tree/main/quant),
-then read [CONTRIBUTING](https://github.com/ducp-protocol/spec/blob/main/CONTRIBUTING.md)
-and [GOVERNANCE](https://github.com/ducp-protocol/spec/blob/main/GOVERNANCE.md).
+Start with the [white paper](https://github.com/ducp-protocol/ducp-spec/blob/main/whitepaper/DUCP_White_Paper_v0.2.0.pdf)
+and the [Quant (ℚ) standard RFC](https://github.com/ducp-protocol/ducp-spec/tree/main/quant),
+then read [CONTRIBUTING](https://github.com/ducp-protocol/ducp-spec/blob/main/CONTRIBUTING.md)
+and [GOVERNANCE](https://github.com/ducp-protocol/ducp-spec/blob/main/GOVERNANCE.md).
 Critiques and proposals are welcome — especially on the open problems: trustless
 energy attestation and validated ℚ benchmarks, formal security analysis, the DVM
 and metering specification, and cross-paradigm normalization. Comment on Quant via
-[`quant`-labelled issues](https://github.com/ducp-protocol/spec/issues?q=label%3Aquant).
+[`quant`-labelled issues](https://github.com/ducp-protocol/ducp-spec/issues?q=label%3Aquant).
 
 ## License & ownership
 
